@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the nine prophecies of the two famous prophets that are lately arrived at Tholouse in France: Wherein they prophesie that in the year 1682 there shall be no Pope and Rome shall have no head: They prophesie likewise that the first day of the year 1690 shall be the last day of the world : and they prophesie also that in the year 1687 all Africa shall burn : here is also an account of their journey from Galadiam in Damas a city of Galilea, of their strange habits, and of their eating bread and drinking water onely; and many other wonderful strange things. / As it was sent in a letter from a gentleman at Tholouse to his cousin at Grays-Inn.</title>
+            <author>T. T. (Thomas Thomson), fl. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26672</idno>
+            <idno type="STC">Wing A945</idno>
+            <idno type="STC">ESTC R26494</idno>
+            <idno type="EEBO-CITATION">09484182</idno>
+            <idno type="OCLC">ocm 09484182</idno>
+            <idno type="VID">43255</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1322:6 or 2022:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the nine prophecies of the two famous prophets that are lately arrived at Tholouse in France: Wherein they prophesie that in the year 1682 there shall be no Pope and Rome shall have no head: They prophesie likewise that the first day of the year 1690 shall be the last day of the world : and they prophesie also that in the year 1687 all Africa shall burn : here is also an account of their journey from Galadiam in Damas a city of Galilea, of their strange habits, and of their eating bread and drinking water onely; and many other wonderful strange things. / As it was sent in a letter from a gentleman at Tholouse to his cousin at Grays-Inn.</title>
+                  <author>T. T. (Thomas Thomson), fl. 1668.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Leonard Lane in Pye-corner,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed (p. 1): T.T.</note>
+                  <note>Item at reel 1322:6 identified as Wing A945 (number cancelled).</note>
+                  <note>Reproductions of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Prophecies.</term>
+               <term>Prophecies.</term>
+               <term>History, Modern --  17th century --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43255:1"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:43255:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>ALL THE NINE PROPHECIES OF THE <hi>Two Famous Prophets</hi> That are lately arrived at Tholouſe in France: Wherein they Propheſie, <hi>That in the Year</hi> 1682. <hi>there ſhall be no <hi>Pope,</hi> and <hi>Rome</hi> ſhall have no <hi>Head.</hi>
+               </hi>
+            </p>
+            <p>They Propheſie likewiſe, <hi>That the First day of the Year 1690. ſhall be the Last day of the World.</hi>
+            </p>
+            <p>And they Propheſie alſo, <hi>That in the Year 1687. all <hi>Africa</hi> ſhall Burn.</hi>
+            </p>
+            <p>Here is alſo, An Account of their Journey from <hi>Galadiam</hi> in <hi>Damas</hi> a City of <hi>Galilea,</hi> of their ſtrange Habits, and of their eating Bread and drinking Water onely; and many other wonderful ſtrange things.</p>
+            <p>As it was ſent in a Letter from a Gentleman at <hi>Tholouſe,</hi> to his Couſin at <hi>Grays-Inn.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Leonard Lane</hi> in <hi>Pye-corner.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43255:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="1" facs="tcp:43255:2"/>
+            <!-- PDF PAGE 21 -->
+            <head>The LETTER.</head>
+            <opener>
+               <salute>Dear Couſin,</salute>
+            </opener>
+            <p>SInce my arrival here, there hath hapned ſomething ſo very ſtrange, that I thought good to give you an account of it, juſt as I find it printed here: I have taken the pains to tranſlate it <hi>verbatim.</hi> Sir, By this you will ſee that I have made ſome progreſs in the <hi>French</hi> Tongue, that I am able in eight weeks to tranſlate a Sheet of Paper, which in it ſelf is ſo very ſtrange, that I will leave you to conſider of it, and make what judgment you pleaſe of it. And ſo I humbly take my leave, and ſhall ever remain,</p>
+            <closer>
+               <salute>Dear Couſin,</salute> 
+               <signed>Your obedient Servant, T. T.</signed>
+               <dateline>Tholouſe, <date>Aug. 15. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prophecies">
+            <head>The Nine Prophecies of Two famous Prophets now at <hi>Tholouſe.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Prophecy</hi> I. That in the Year 1681. ſhall be Wars over all the World.</item>
+               <item>
+                  <hi>Prophecy</hi> II. That in the Year 1682. there ſhall be no <hi>Pope,</hi> and <hi>Rome</hi> ſhall have no Head.</item>
+               <item>
+                  <hi>Prophecy</hi> III. That in the Year 1683. they ſhall preach throughout the World.</item>
+               <item>
+                  <hi>Prophecy</hi> IV. That in the Year 1684. <hi>Jeſus Chriſt</hi> ſhall be know to all Mankind.</item>
+               <item>
+                  <hi>Prophecy</hi> V. That in the Year 1685. a Great Man ſhall ariſe.</item>
+               <item>
+                  <hi>Prophecy</hi> VI. That in the Year 1686. a great Earth quake ſhall happen.</item>
+               <item>
+                  <hi>Prophecy</hi> VII. That in the Year 1687. all <hi>Africa</hi> ſhall burn.</item>
+               <item>
+                  <hi>Prophecy</hi> VIII. That in the Year 1688. the Four Parts of the World ſhall be greatly aſtoniſhed.</item>
+               <item>
+                  <hi>Prophecy</hi> IX. That in the Year 1689. ſhall be the time when God ſhall judge the World.</item>
+            </list>
+            <pb n="2" facs="tcp:43255:3"/>
+            <!-- PDF PAGE 22 -->
+            <p>Some days ago arrived here in the City of <hi>Tholouſa</hi> Two Old Men, who called themſelves <hi>Apoſtles,</hi> having the Spirit of Truth. None ſaw them come into the City: They are ap<g ref="char:EOLhyphen"/>parelled after ſuch a manner as the like was never ſeen. They walk the Streets, and preach to the People Repentance and forſaking of their evil Lives, for the Wrath of God is kindled againſt the <hi>Romans.</hi> They ſay this City is a ſecond <hi>Sodom,</hi> that the Iniquity of the People is aſcended to the Heavens, and that within Three months (if they do not repent) the City ſhall periſh by Fire. They have continued now eight days preaching in the City, bare-headed, and bare-footed, with joyned Hands. The Magiſtracy have forbidden them to preach; but they returned this Anſwer, That they were ſent from God to move the People to Repentance. They were put in Priſon, where the <hi>Jeſuits</hi> went to viſit them, and diſputed with them in the <hi>Latin, Hebrew,</hi> and <hi>Chaldaean</hi> Tongues. They know ſuch as live a bad Life. Their Meat is Bread alone, and their Drink Water. They name the Day wherein the Lord ſhall come. Being asked how long it ſhould be before the Day of Judgment? They anſwered, That the firſt day of the Year 1690. ſhould be the laſt day of the World. They ſay, that they are a thouſand Years of age. The Magiſtrates demanded of them whence they were? They anſwered, That they came from <hi>Galadiam</hi> in <hi>Damas</hi> a City of <hi>Galilea,</hi> and ſent by God to preach Repentance to the World. The <hi>Jeſuits</hi> have prevailed with the Magiſtrates to let them be conveyed to <hi>Rome,</hi> to the <hi>Pope.</hi> The ſaid <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> ſay, that they knew very well what would become of them, and that it was not neceſſary that they ſhould enchain them with ſuch magnificence, and that they had a great deſire to ſee <hi>Rome,</hi> and ſo broke the Chains all in pieces. The People were all aſtoniſhed, and judged them Saints.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43255:3"/>
+            <!-- PDF PAGE 22 -->
+         </div>
+      </body>
+   </text>
+</TEI>
